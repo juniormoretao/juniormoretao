@@ -22,7 +22,7 @@ Olá! meu nome é Adão Moretão Junior, um apaixonado por tecnologia e aspirant
 
 ## Sobre Mim
 
-Sempre fui fascinado pelo mundo dos jogos e da programação. Estou constantemente me desafiando a aprender novas tecnologias e ferramentas para expandir minhas habilidades e criar projetos inovadores. No momento, estou focado em aprimorar minhas habilidades em C#, SQL e Python, além de explorar diferentes engines de desenvolvimento de jogos.
+Sempre fui fascinado pelo mundo dos jogos e da programação. Estou constantemente me desafiando a aprender novas tecnologias e ferramentas para expandir minhas habilidades e criar projetos inovadores. No momento, estou focado em aprimorar minhas habilidades em C#, SQL, React e Python, além de explorar diferentes engines de desenvolvimento de jogos.
 
 Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso nessa jornada empolgante. Estou sempre aberto a colaborações e novas oportunidades de aprendizado.
 
