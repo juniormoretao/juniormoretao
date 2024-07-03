@@ -1,6 +1,6 @@
 # Adão Moretão Junior
 
-Olá! Eu sou Adão Moretão Junior, um apaixonado por tecnologia e aspirante a desenvolvedor de jogos. Meu foco principal é no desenvolvimento front-end, onde utilizo tecnologias como HTML, CSS, JavaScript e React para criar interfaces dinâmicas e atraentes.
+Olá! Eu sou Adão Moretão Junior, um apaixonado por tecnologia e aspirante a desenvolvedor de jogos. Meu foco principal é no desenvolvimento front-end, onde utilizo tecnologias como HTML, CSS, JavaScript e React.
 
 ## Tecnologias e Ferramentas
 
