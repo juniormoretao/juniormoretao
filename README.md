@@ -24,7 +24,7 @@ Olá! meu nome é Adão Moretão Junior, um apaixonado por tecnologia e aspirant
 
 Sempre fui fascinado pelo mundo dos jogos e da programação. Estou constantemente me desafiando a aprender novas tecnologias e ferramentas para expandir minhas habilidades e criar projetos inovadores. No momento, estou focado em aprimorar minhas habilidades em C#, SQL, React e Python, além de explorar diferentes engines de desenvolvimento de jogos.
 
-Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso nessa jornada empolgante. Estou sempre aberto a colaborações e novas oportunidades de aprendizado.
+Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso. Estou sempre aberto a colaborações e novas oportunidades de aprendizado.
 
 ## Contato
 
@@ -32,9 +32,4 @@ Você pode me encontrar nas seguintes plataformas:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/adão-moretão-junior/))
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junior74651@gmail.com)
 
-Vamos construir algo incrível juntos!
-
----
-
-Obrigado por visitar meu perfil!
 
